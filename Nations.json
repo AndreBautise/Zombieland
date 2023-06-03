@@ -1,0 +1,38 @@
+[
+	//Spectator
+	{
+		"name": "Spectator",
+		"outerColor": [255,255,255]
+//		"innerColor": [255,255,255]
+	},
+
+	{
+		//nations
+		"name": "Louis Nathaniel Institute Of Art And Science",
+		"leaderName": "Dean Thomas Blair",
+		"adjective": ["Sophomore"],
+		"startBias": ["Avoid [Tundra]"],
+		"preferredVictoryType": "Scientific",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "Peace will never be the answers in the world filled with living dead.",
+		"attacked": "So instead of working together you choose to take all for yourself?",
+		"defeated": "I see flame it is so bright,slowly scorching us it does.",
+		"introduction": "Survivors?Oh well we wishes you come in peace.",
+
+		"neutralHello": "Greeting.",
+		"hateHello": "Make it quick.",
+
+		"tradeRequest": "From a meticulous research and planning whe have come up with this deal.",
+
+		"outerColor": [27,53,63],
+		"innerColor": [213,249,255],
+		"favoredReligion": "Islam",
+		"uniqueName": "One Vision",
+		"uniques": ["Receive free [Great Scientist] when you discover [Writing]", "[Great Scientist] is earned [50]% faster"],
+		"cities": ["Louis Nathaniel University","Saint Kelly Campus","Raleigh Stead","Tacoma Refuge"],
+        "spyNames": ["Rim-Sin II", "Smerdis", "Ilum-ma-ili", "Peshgaldaramesh", "Ur-zigurumaš", "Semiramis", "Em", "Ishtar", "Bilit Taauth", "Aruru"]
+	},
+	{
